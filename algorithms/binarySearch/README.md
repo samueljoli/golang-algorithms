@@ -4,6 +4,8 @@ In computer science, binary search, also known as half-interval search, logarith
 
 >[implementation](https://github.com/Samueljoli/golang-algorithms/blob/master/algorithms/binarySearch/implementation.go)
 
+![binary search animation](https://github.com/Samueljoli/golang-algorithms/blob/master/assets/binary-search.gif?raw=true)
+
 ## Complexity
 
 **Time complexity:** `O( log n )`
