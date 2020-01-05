@@ -17,5 +17,5 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 + **Searching**
   + `B` [Binary Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/binarySearch)
   + `B` [Jump Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/jumpSearch)
-  + `B` [Linear Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/linarSearch)
+  + `B` [Linear Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/linearSearch)
 
