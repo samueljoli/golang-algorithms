@@ -1,4 +1,4 @@
-# golang-algorithms
+<h1 align="center">golang-algorithms<h1>
 
 <p align="center">Popular algorithms implemented in the <a href="https://golang.org/">Go</a> programming language.</p>
 
