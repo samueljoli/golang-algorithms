@@ -1,7 +1,10 @@
 <div>
-  <h3 align="center">golang-algorithms<h3>
-
-  <p align="center">Popular algorithms implemented in the <a href="https://golang.org/">Go</a> programming language.</p>
+  <div>
+    <h3 align="center">golang-algorithms<h3>
+  </div>
+  <div>
+    <p align="center">Popular algorithms implemented in the <a href="https://golang.org/">Go</a> programming language.</p>
+  </div>
 </div>
 
 ---
