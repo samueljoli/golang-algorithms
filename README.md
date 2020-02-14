@@ -23,3 +23,5 @@ An algorithm is an unambiguous specification of how to solve a class of problems
   + `B` [Jump Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/jumpSearch)
   + `B` [Linear Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/linearSearch)
   + `B` [Interpolation Search](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/searching/interpolationSearch)
++ **Sorting**
+  + `B` [Bubble Sort](https://github.com/Samueljoli/golang-algorithms/tree/master/algorithms/sorting/bubbleSort)
