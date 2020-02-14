@@ -2,7 +2,7 @@
 
 Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items and swaps them if they are in the wrong order (ascending or descending arrangement).
 The pass through the list is repeated until no swaps are needed, which indicates that the list is sorted. *- source:* [Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
-> [implementation]()
+> [implementation](https://github.com/Samueljoli/golang-algorithms/blob/master/algorithms/sorting/bubbleSort/implementation.go)
 
 ![bubble sort animation](https://github.com/Samueljoli/golang-algorithms/blob/master/assets/bubble-sort.gif?raw=true)
 
